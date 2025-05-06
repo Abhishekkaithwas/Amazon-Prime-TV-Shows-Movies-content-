@@ -47,7 +47,3 @@ This project provides valuable insights into Amazon Prime Video's content landsc
 ## Author
 
 Abhishek Kaithwas
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).

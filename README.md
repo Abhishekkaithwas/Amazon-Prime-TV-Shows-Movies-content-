@@ -1,4 +1,3 @@
-# Amazon-Prime-TV-Shows-Movies-content-
 # Amazon Prime Video Content Analysis
 
 ## Project Overview
